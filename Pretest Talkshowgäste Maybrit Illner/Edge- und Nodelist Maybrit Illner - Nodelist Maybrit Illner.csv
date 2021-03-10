@@ -1,0 +1,109 @@
+id,name,sex,background,party,topic
+SGabriel,Sigmar Gabriel,1,1,2,0
+DTekkal,Duezen Tekkal,2,3,0,0
+UBecker,Ulrike Becker,2,4,0,0
+DGerlach,Daniel Gerlach,1,8,0,0
+EThevessen,Elmar Thevessen,1,3,0,0
+810,Politik - Nahost,0,0,0,1
+HMaas,Heiko Maas,1,1,2,0
+SOsterer,Shahrzad Osterer ,2,3,0,0
+FGaub,Florence Gaub,2,4,0,0
+AShalicar,Arye Sharuz Shalicar,1,8,0,0
+CStelzenmueller,Constanze Stelzenmueller,2,4,0,0
+811,Politik - Nahost,0,0,0,1
+PAltmaier,Peter Altmaier,1,1,1,0
+CReemtsma,Carla Reemtsma,2,5,0,0
+KAndreae,Kerstin Andreae,2,2,0,0
+AKirchhoff,Arndt Guenter Kirchhoff,1,2,0,0
+FSchaetzing,Frank Schaetzing,1,7,0,0
+812,Wirtschaft - Klima,0,0,0,2
+JSpahn,Jens Spahn,1,1,1,0
+MBrinkmann,Melanie Brinkmann,2,4,0,0
+JWimmer,Johannes Wimmer,1,4,0,0
+FLee,Felix Lee,1,3,0,0
+VHaller,Valerie Haller,2,3,0,0
+URoeller,Ulf Roeller,1,3,0,0
+813,Corona,0,0,0,3
+MKretschmer,Michael Kretschmer,1,1,1,0
+RHabeck,Robert Habeck,1,1,3,0
+JWissler,Janine Wissler,2,1,4,0
+LTeuteberg,Linda Teuteberg,2,1,5,0
+AGauland,Alexander Gauland,1,1,6,0
+DRosenfeld,Dagmar Rosenfeld,2,3,0,0
+814,Politik - Thueringen Landtagswahl,0,0,0,1
+THans,Tobias Hans,1,1,1,0
+TKuban,Tilman Kuban,1,1,1,0
+NWalter-Borjans,Norbert Walter-Borjans,1,1,2,0
+KKipping,Katja Kipping,2,1,4,0
+RAlexander,Robin Alexander,1,3,0,0
+SKropp,Sabine Kropp,2,4,0,0
+815,Politik - Machtkampf CDU,0,0,0,1
+CReimann,Carola Reimann,2,1,2,0
+KReinhardt ,Klaus Reinhardt ,1,4,0,0
+CDrosten,Christian Drosten,1,4,0,0
+ASchadwinkel,Alina Schadwinkel,2,3,0,0
+ARuedinger ,Anke Ruedinger ,2,2,0,0
+816,Corona,0,0,0,3
+PZiemiak,Paul Ziemiak,1,1,1,0
+ABaerbock,Annalena Baerbock,2,1,3,0
+GKnaus,Gerald Knaus,1,4,0,0
+LKaddor,Lamya Kaddor,2,4,0,0
+KHelberg,Kristin Helberg,2,4,0,0
+MvonManteuffel,Marie von Manteuffel,2,5,0,0
+817,Politik - Fluechtlinge,0,0,0,1
+OScholz,Olaf Scholz,1,1,2,0
+HMueller,Hildegard Mueller,2,2,0,0
+SFlasspoehler,Svenja Flasspoehler,2,7,0,0
+818,Corona,0,0,0,3
+HHeil,Hubertus Heil,1,1,2,0
+SJohna,Susanne Johna,2,4,0,0
+KShi-Kupfer,Kristin Shi-Kupfer,2,4,0,0
+819,Corona,0,0,0,3
+KLauterbach,Karl Lauterbach,1,1,2,0
+AUllmann,Andrew Ullmann,1,1,5,0
+YFalckner,Yvonne Falckner,2,7,0,0
+ATheiler,Achim Theiler,1,2,0,0
+SCiesek,Sandra Ciesek,2,4,0,0
+AGrafLambsdorff,Alexander Graf Lambsdorff,1,1,5,0
+820,Corona - Unsicherheiten,0,0,0,3
+HBraun,Helge Braun,1,1,1,0
+CWoopen,Christiane Woopen,2,4,0,0
+MZiemons,Michael Ziemons,1,7,0,0
+DBrockmann,Dirk Brockmann,1,4,0,0
+821,Corona - Unsicherheiten,0,0,0,3
+MSoeder,Markus Soeder,1,1,1,0
+CLindner,Christian Lindner,1,1,5,0
+RYogeshwar,Ranga Yogeshwar,1,4,0,0
+CHoffmann,Christiane Hoffmann,2,3,0,0
+822,Corona - Lockerungen,0,0,0,3
+MDreyer,Malu Dreyer,2,1,2,0
+COezdemir,Cem Oezdemir,1,1,3,0
+HDiess,Herbert Diess,1,2,0,0
+HStreeck,Hendrik Streeck,1,4,0,0
+MNguyen-Kim,Mai Thi Nguyen-Kim,2,4,0,0
+823,Corona - Lockerungen,0,0,0,3
+FGiffey,Franziska Giffey,2,1,2,0
+JSchmidt-Chanasit,Jonas Schmidt-Chanasit,1,4,0,0
+KSaalfrank,Katia Saalfrank,2,7,0,0
+UDiFabio,Udo Di Fabio,1,7,0,0
+RGiese,Robert Giese,1,7,0,0
+824,Corona - Lockerungen,0,0,0,3
+SWeil,Stephan Weil,1,1,2,0
+ABuyx,Alena Buyx,2,4,0,0
+RvonBredow,Rafaela von Bredow,2,3,0,0
+825,Corona - Riskanter Neustart,0,0,0,3
+BPalmer,Boris Palmer,1,1,3,0
+MMeyer-Hermann,Michael Meyer-Hermann,1,4,0,0
+NBlome,Nikolaus Blome,1,3,0,0
+826,Corona - Pandemie und Protest,0,0,0,3
+ALaschet,Armin Laschet,1,1,1,0
+RMessner,Reinhold Messner,1,7,0,0
+MLinnhoff,Marija Linnhoff,2,2,0,0
+827,Corona - Reise ins Ungewisse,0,0,0,3
+MConte,Manuela Conte,2,2,0,0
+SRoeser,Sarna Roeser,2,2,0,0
+LFeld,Lars Feld,1,4,0,0
+828,Wirtschaft - Corona-Abschwung,0,0,0,2
+KNocun,Katharina Nocun,2,5,0,0
+MPech,Miriam Pech,2,7,0,0
+SPufpaff,Sebastian Pufpaff,1,7,0,0
