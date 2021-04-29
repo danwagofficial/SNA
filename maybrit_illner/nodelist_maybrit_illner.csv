@@ -1,0 +1,188 @@
+id,name,sex,background,party,topic,species
+SGabriel,Sigmar Gabriel,1,1,2,0,1
+DTekkal,Duezen Tekkal,2,3,0,0,1
+UBecker,Ulrike Becker,2,4,0,0,1
+DGerlach,Daniel Gerlach,1,8,0,0,1
+EThevessen,Elmar Thevessen,1,3,0,0,1
+810,Politik - USA gegen Iran,0,0,0,1,0
+HMaas,Heiko Maas,1,1,2,0,1
+SOsterer,Shahrzad Osterer ,2,3,0,0,1
+FGaub,Florence Gaub,2,4,0,0,1
+AShalicar,Arye Sharuz Shalicar,1,8,0,0,1
+CStelzenmueller,Constanze Stelzenmueller,2,4,0,0,1
+811,Politik - Iran und die Bombe,0,0,0,1,0
+PAltmaier,Peter Altmaier,1,1,1,0,1
+CReemtsma,Carla Reemtsma,2,5,0,0,1
+KAndreae,Kerstin Andreae,2,2,0,0,1
+AKirchhoff,Arndt Guenter Kirchhoff,1,2,0,0,1
+FSchaetzing,Frank Schaetzing,1,7,0,0,1
+812,Wirtschaft - Klima,0,0,0,2,0
+JSpahn,Jens Spahn,1,1,1,0,1
+MBrinkmann,Melanie Brinkmann,2,4,0,0,1
+JWimmer,Johannes Wimmer,1,4,0,0,1
+FLee,Felix Lee,1,3,0,0,1
+VHaller,Valerie Haller,2,3,0,0,1
+URoeller,Ulf Roeller,1,3,0,0,1
+813,Corona - Einschätzung und Gefährlichkeit,0,0,0,3,0
+MKretschmer,Michael Kretschmer,1,1,1,0,1
+RHabeck,Robert Habeck,1,1,3,0,1
+JWissler,Janine Wissler,2,1,4,0,1
+LTeuteberg,Linda Teuteberg,2,1,5,0,1
+AGauland,Alexander Gauland,1,1,6,0,1
+DRosenfeld,Dagmar Rosenfeld,2,3,0,0,1
+814,Politik - Thueringen Landtagswahl,0,0,0,1,0
+THans,Tobias Hans,1,1,1,0,1
+TKuban,Tilman Kuban,1,1,1,0,1
+NWalter-Borjans,Norbert Walter-Borjans,1,1,2,0,1
+KKipping,Katja Kipping,2,1,4,0,1
+RAlexander,Robin Alexander,1,3,0,0,1
+SKropp,Sabine Kropp,2,4,0,0,1
+815,Politik - Machtkampf CDU,0,0,0,1,0
+CReimann,Carola Reimann,2,1,2,0,1
+KReinhardt ,Klaus Reinhardt ,1,4,0,0,1
+CDrosten,Christian Drosten,1,4,0,0,1
+ASchadwinkel,Alina Schadwinkel,2,3,0,0,1
+ARuedinger ,Anke Ruedinger ,2,2,0,0,1
+816,Corona - Vorbereitet?,0,0,0,3,0
+PZiemiak,Paul Ziemiak,1,1,1,0,1
+ABaerbock,Annalena Baerbock,2,1,3,0,1
+GKnaus,Gerald Knaus,1,4,0,0,1
+LKaddor,Lamya Kaddor,2,4,0,0,1
+KHelberg,Kristin Helberg,2,4,0,0,1
+MvonManteuffel,Marie von Manteuffel,2,5,0,0,1
+817,Politik - Fluechtlinge,0,0,0,1,0
+OScholz,Olaf Scholz,1,1,2,0,1
+HMueller,Hildegard Mueller,2,2,0,0,1
+SFlasspoehler,Svenja Flasspoehler,2,7,0,0,1
+818,Corona - Schliessungen und Regeln,0,0,0,3,0
+HHeil,Hubertus Heil,1,1,2,0,1
+SJohna,Susanne Johna,2,4,0,0,1
+KShi-Kupfer,Kristin Shi-Kupfer,2,4,0,0,1
+819,Corona - Kosten,0,0,0,3,0
+KLauterbach,Karl Lauterbach,1,1,2,0,1
+AUllmann,Andrew Ullmann,1,1,5,0,1
+YFalckner,Yvonne Falckner,2,7,0,0,1
+ATheiler,Achim Theiler,1,2,0,0,1
+SCiesek,Sandra Ciesek,2,4,0,0,1
+AGrafLambsdorff,Alexander Graf Lambsdorff,1,1,5,0,1
+820,Corona - Unsichere Zeiten,0,0,0,3,0
+HBraun,Helge Braun,1,1,1,0,1
+CWoopen,Christiane Woopen,2,4,0,0,1
+MZiemons,Michael Ziemons,1,7,0,0,1
+DBrockmann,Dirk Brockmann,1,4,0,0,1
+821,Corona - Unsicherheiten,0,0,0,3,0
+MSoeder,Markus Soeder,1,1,1,0,1
+CLindner,Christian Lindner,1,1,5,0,1
+RYogeshwar,Ranga Yogeshwar,1,4,0,0,1
+CHoffmann,Christiane Hoffmann,2,3,0,0,1
+822,Corona - Moegliche Lockerungen,0,0,0,3,0
+MDreyer,Malu Dreyer,2,1,2,0,1
+COezdemir,Cem Oezdemir,1,1,3,0,1
+HDiess,Herbert Diess,1,2,0,0,1
+HStreeck,Hendrik Streeck,1,4,0,0,1
+MNguyen-Kim,Mai Thi Nguyen-Kim,2,4,0,0,1
+823,Corona - Lockerungen,0,0,0,3,0
+FGiffey,Franziska Giffey,2,1,2,0,1
+JSchmidt-Chanasit,Jonas Schmidt-Chanasit,1,4,0,0,1
+KSaalfrank,Katia Saalfrank,2,7,0,0,1
+UDiFabio,Udo Di Fabio,1,7,0,0,1
+RGiese,Robert Giese,1,7,0,0,1
+824,Corona - Lockern und Oeffnen,0,0,0,3,0
+SWeil,Stephan Weil,1,1,2,0,1
+ABuyx,Alena Buyx ,2,4,0,0,1
+RvonBredow,Rafaela von Bredow,2,3,0,0,1
+825,Corona - Riskanter Neustart,0,0,0,3,0
+BPalmer,Boris Palmer,1,1,3,0,1
+MMeyer-Hermann,Michael Meyer-Hermann,1,4,0,0,1
+NBlome,Nikolaus Blome,1,3,0,0,1
+826,Corona - Pandemie und Protest,0,0,0,3,0
+ALaschet,Armin Laschet,1,1,1,0,1
+RMessner,Reinhold Messner,1,7,0,0,1
+MLinnhoff,Marija Linnhoff,2,2,0,0,1
+827,Corona - Reise ins Ungewisse,0,0,0,3,0
+MConte,Manuela Conte,2,2,0,0,1
+SRoeser,Sarna Roeser,2,2,0,0,1
+LFeld,Lars Feld,1,4,0,0,1
+828,Wirtschaft - Corona-Abschwung,0,0,0,2,0
+KNocun,Katharina Nocun,2,5,0,0,1
+MPech,Miriam Pech,2,7,0,0,1
+SPufpaff,Sebastian Pufpaff,1,8,0,0,1
+829,Corona - Leichtsinn,0,0,0,3,0
+HReul,Herbert Reul,1,1,1,0,1
+SHoward,Sonja Howard,2,5,0,0,1
+JvonWeiler,Julia von Weiler,2,5,0,0,1
+SFiedler,Sebastian Fiedler,1,7,0,0,1
+PBriken,Peer Briken,1,4,0,0,1
+830,Soziales - Missbrauchsskandal,0,0,0,4,0
+WBosbach,Wolfgang Bosbach,1,1,1,0,1
+IBaydar,Idil Baydar,2,8,0,0,1
+831,Politik - Polizei,0,0,0,1,0
+MSchwesig,Manuela Schwesig,2,1,2,0,1
+UTeichert,Ute Teichert,2,4,0,0,1
+JMarinic,Jagoda Marinic,2,3,0,0,1
+832,Corona - Ungleichheiten,0,0,0,3,0
+SWagenknecht,Sahra Wagenknecht,2,1,4,0,1
+SDavid-Wilp,Sudha David-Wilp,2,4,0,0,1
+SNavidi,Sandra Navidi,2,4,0,0,1
+MSchnitzer,Monika Schnitzer,2,4,0,0,1
+833,Corona - Trump und die Weltwirtschaft,0,0,0,3,0
+KLaumann,Karl-Josef Laumann,1,1,1,1,1
+HElbracht,Heidrun Elbracht,2,7,0,0,1
+834,"Corona - Virus, Wissenschaft, Politik",0,0,0,3,0
+NGruenewald,Nicole Gruenewald,2,2,0,0,1
+MMueller,Michael Mueller,1,1,2,0,1
+835,Corona - Regeln und Massnahmen,0,0,0,3,0
+GGysi,Gregor Gysi,1,1,4,0,1
+MWeisband,Marina Weisband,2,1,3,0,1
+SNemzowa,Schanna Borissowna Nemzowa,2,3,0,0,1
+ARahr,Alexander Rahr,1,4,0,0,1
+TSnyder,Timothy Snyder,1,4,0,0,1
+836,Politik - Putin und Trump,0,0,0,1,0
+SBeckmann,Sandra Beckmann,2,2,0,0,1
+KHaeusgen,Karl Haeusgen,1,2,0,0,1
+KZastrow,Klaus-Dieter Zastrow,1,4,0,0,1
+837,Corona - Risikopatient Wirtschaft,0,0,0,3,0
+VWissing,Volker Wissing,1,1,5,0,1
+SKatzenstein,Sibylle Katzenstein,2,4,0,0,1
+UProtzer,Ulrike Protzer,2,4,0,0,1
+838,Corona - Risiko Herbst,0,0,0,3,0
+AKausche,Angelika Kausche,2,1,7,0,1
+PRough,Peter Rough,1,4,7,0,1
+JPuglierin,Jana Puglierin,2,4,0,0,1
+CKleber,Claus Kleber,1,3,0,0,1
+839,Politik - Trump,0,0,0,1,0
+IEckerle,Isabella Eckerle,2,4,0,0,1
+JNida-Ruemelin,Julian Nida-Ruemelin,1,4,0,0,1
+PLarscheid,Patrick Larscheid,1,4,0,0,1
+ULemper,Ute Lemper,2,7,0,0,1
+840,Corona - Trump,0,0,0,3,0
+RGottschalk,Rene Gottschalk,1,4,0,0,1
+CvonKretschmann,Caroline von Kretschmann,2,2,0,0,1
+841,Corona - Chaos,0,0,0,3,0
+PTschentscher,Peter Tschentscher,1,1,2,0,1
+GMascolo,Georg Mascolo,1,3,0,0,1
+SHerold,Susanne Herold,2,4,0,0,1
+SOschmann,Stefan Oschmann,1,2,0,0,1
+842,Corona - Wende,0,0,0,3,0
+AGassen,Andreas Gassen,1,4,0,0,1
+843,Corona - Lockdown light,0,0,0,0,0
+MRichenhagen,Martin Richenhagen,1,2,0,0,1
+BWolfmeier,Benjamin Wolfmeier,1,1,6,0,1
+TGottschalk,Thomas Gottschalk,1,7,0,0,1
+844,Politik - US-Wahl,0,0,0,1,0
+SKluge,Stefan Kluge,1,4,0,0,1
+PKremsner,Peter Kremsner,1,4,0,0,1
+845,Corona - Kraftakt zur Impfung,0,0,0,3,0
+DSchwarzer,Daniela Schwarzer,2,4,0,0,1
+SMekhennet,Souad Mekhennet,2,3,0,0,1
+846,Politik - Trump Abgang,0,0,0,1,0
+ULueken,Ulrike Lueken,2,4,0,0,1
+MMittermeier,Michael Mittermeier,1,8,0,0,1
+847,Corona - Weihnachten und Winter,0,0,0,3,0
+TChrupalla,Tino Chrupalla,1,1,6,0,1
+MJung,Matthias Jung,1,4,0,0,1
+848,Politik - Rechts und Links,0,0,0,1,0
+FMontgomery,Frank Ulrich Montgomery,1,4,0,0,1
+849,Corona - Winter,0,0,0,3,0
+LFederle,Lisa Federle,2,4,0,0,1
+850,Corona - Impfen und Shutdown,0,0,0,3,0
