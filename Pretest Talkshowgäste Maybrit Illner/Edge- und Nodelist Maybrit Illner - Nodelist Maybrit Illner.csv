@@ -1,0 +1,188 @@
+id,name,sex,background,party,topic,type,label
+SGabriel,Sigmar Gabriel,1,1,2,0,1,SGab
+DTekkal,Duezen Tekkal,2,3,0,0,1,DTek
+UBecker,Ulrike Becker,2,4,0,0,1,UBec
+DGerlach,Daniel Gerlach,1,8,0,0,1,DGer
+EThevessen,Elmar Thevessen,1,3,0,0,1,EThe
+810,Politik - USA gegen Iran,0,0,0,1,0,810 - POL
+HMaas,Heiko Maas,1,1,2,0,1,HMaa
+SOsterer,Shahrzad Osterer ,2,3,0,0,1,SOst
+FGaub,Florence Gaub,2,4,0,0,1,FGau
+AShalicar,Arye Sharuz Shalicar,1,8,0,0,1,ASha
+CStelzenmueller,Constanze Stelzenmueller,2,4,0,0,1,CSte
+811,Politik - Iran und die Bombe,0,0,0,1,0,811 - POL
+PAltmaier,Peter Altmaier,1,1,1,0,1,PAlt
+CReemtsma,Carla Reemtsma,2,5,0,0,1,CRee
+KAndreae,Kerstin Andreae,2,2,0,0,1,KAnd
+AKirchhoff,Arndt Guenter Kirchhoff,1,2,0,0,1,AKir
+FSchaetzing,Frank Schaetzing,1,7,0,0,1,FSch
+812,Wirtschaft - Klima,0,0,0,2,0,812 - WIR
+JSpahn,Jens Spahn,1,1,1,0,1,JSpa
+MBrinkmann,Melanie Brinkmann,2,4,0,0,1,MBri
+JWimmer,Johannes Wimmer,1,4,0,0,1,JWim
+FLee,Felix Lee,1,3,0,0,1,FLee
+VHaller,Valerie Haller,2,3,0,0,1,VHal
+URoeller,Ulf Roeller,1,3,0,0,1,URoe
+813,Corona - Einschaetzung und Gefaehrlichkeit,0,0,0,3,0,813 - COR
+MKretschmer,Michael Kretschmer,1,1,1,0,1,MKre
+RHabeck,Robert Habeck,1,1,3,0,1,RHab
+JWissler,Janine Wissler,2,1,4,0,1,JWiss
+LTeuteberg,Linda Teuteberg,2,1,5,0,1,LTeu
+AGauland,Alexander Gauland,1,1,6,0,1,AGau
+DRosenfeld,Dagmar Rosenfeld,2,3,0,0,1,DRos
+814,Politik - Thueringen Landtagswahl,0,0,0,1,0,814 - POL
+THans,Tobias Hans,1,1,1,0,1,THan
+TKuban,Tilman Kuban,1,1,1,0,1,TKub
+NWalter-Borjans,Norbert Walter-Borjans,1,1,2,0,1,NWal
+KKipping,Katja Kipping,2,1,4,0,1,KKip
+RAlexander,Robin Alexander,1,3,0,0,1,RAle
+SKropp,Sabine Kropp,2,4,0,0,1,SKro
+815,Politik - Machtkampf CDU,0,0,0,1,0,815 - POL
+CReimann,Carola Reimann,2,1,2,0,1,CRei
+KReinhardt ,Klaus Reinhardt ,1,4,0,0,1,KRei
+CDrosten,Christian Drosten,1,4,0,0,1,CDro
+ASchadwinkel,Alina Schadwinkel,2,3,0,0,1,ASch
+ARuedinger ,Anke Ruedinger ,2,2,0,0,1,ARue
+816,Corona - Vorbereitet?,0,0,0,3,0,816 - COR
+PZiemiak,Paul Ziemiak,1,1,1,0,1,PZie
+ABaerbock,Annalena Baerbock,2,1,3,0,1,ABae
+GKnaus,Gerald Knaus,1,4,0,0,1,GKna
+LKaddor,Lamya Kaddor,2,4,0,0,1,LKad
+KHelberg,Kristin Helberg,2,4,0,0,1,KHel
+MvonManteuffel,Marie von Manteuffel,2,5,0,0,1,Mvon
+817,Politik - Fluechtlinge,0,0,0,1,0,817 - POL
+OScholz,Olaf Scholz,1,1,2,0,1,OSch
+HMueller,Hildegard Mueller,2,2,0,0,1,HMue
+SFlasspoehler,Svenja Flasspoehler,2,7,0,0,1,SFla
+818,Corona - Schliessungen und Regeln,0,0,0,3,0,818 - COR
+HHeil,Hubertus Heil,1,1,2,0,1,HHei
+SJohna,Susanne Johna,2,4,0,0,1,SJoh
+KShi-Kupfer,Kristin Shi-Kupfer,2,4,0,0,1,KShi
+819,Corona - Kosten,0,0,0,3,0,819 - COR
+KLauterbach,Karl Lauterbach,1,1,2,0,1,KLau
+AUllmann,Andrew Ullmann,1,1,5,0,1,AUll
+YFalckner,Yvonne Falckner,2,7,0,0,1,YFal
+ATheiler,Achim Theiler,1,2,0,0,1,AThe
+SCiesek,Sandra Ciesek,2,4,0,0,1,SCie
+AGrafLambsdorff,Alexander Graf Lambsdorff,1,1,5,0,1,AGra
+820,Corona - Unsichere Zeiten,0,0,0,3,0,820 - COR
+HBraun,Helge Braun,1,1,1,0,1,HBra
+CWoopen,Christiane Woopen,2,4,0,0,1,CWoo
+MZiemons,Michael Ziemons,1,7,0,0,1,MZie
+DBrockmann,Dirk Brockmann,1,4,0,0,1,DBro
+821,Corona - Unsicherheiten,0,0,0,3,0,821 - COR
+MSoeder,Markus Soeder,1,1,1,0,1,MSoe
+CLindner,Christian Lindner,1,1,5,0,1,CLin
+RYogeshwar,Ranga Yogeshwar,1,4,0,0,1,RYog
+CHoffmann,Christiane Hoffmann,2,3,0,0,1,CHof
+822,Corona - Moegliche Lockerungen,0,0,0,3,0,822 - COR
+MDreyer,Malu Dreyer,2,1,2,0,1,MDre
+COezdemir,Cem Oezdemir,1,1,3,0,1,COez
+HDiess,Herbert Diess,1,2,0,0,1,HDie
+HStreeck,Hendrik Streeck,1,4,0,0,1,HStr
+MNguyen-Kim,Mai Thi Nguyen-Kim,2,4,0,0,1,MNgu
+823,Corona - Lockerungen,0,0,0,3,0,823 - COR
+FGiffey,Franziska Giffey,2,1,2,0,1,FGif
+JSchmidt-Chanasit,Jonas Schmidt-Chanasit,1,4,0,0,1,JSch
+KSaalfrank,Katia Saalfrank,2,7,0,0,1,KSaa
+UDiFabio,Udo Di Fabio,1,7,0,0,1,UDiF
+RGiese,Robert Giese,1,7,0,0,1,RGie
+824,Corona - Lockern und Oeffnen,0,0,0,3,0,824 - COR
+SWeil,Stephan Weil,1,1,2,0,1,SWei
+ABuyx,Alena Buyx ,2,4,0,0,1,ABuy
+RvonBredow,Rafaela von Bredow,2,3,0,0,1,Rvon
+825,Corona - Riskanter Neustart,0,0,0,3,0,825 - COR
+BPalmer,Boris Palmer,1,1,3,0,1,BPal
+MMeyer-Hermann,Michael Meyer-Hermann,1,4,0,0,1,MMey
+NBlome,Nikolaus Blome,1,3,0,0,1,NBlo
+826,Corona - Pandemie und Protest,0,0,0,3,0,826 - COR
+ALaschet,Armin Laschet,1,1,1,0,1,ALas
+RMessner,Reinhold Messner,1,7,0,0,1,RMes
+MLinnhoff,Marija Linnhoff,2,2,0,0,1,MLin
+827,Corona - Reise ins Ungewisse,0,0,0,3,0,827 - COR
+MConte,Manuela Conte,2,2,0,0,1,MCon
+SRoeser,Sarna Roeser,2,2,0,0,1,SRoe
+LFeld,Lars Feld,1,4,0,0,1,LFel
+828,Wirtschaft - Corona-Abschwung,0,0,0,2,0,828 - COR
+KNocun,Katharina Nocun,2,5,0,0,1,KNoc
+MPech,Miriam Pech,2,7,0,0,1,MPec
+SPufpaff,Sebastian Pufpaff,1,8,0,0,1,SPuf
+829,Corona - Leichtsinn,0,0,0,3,0,829 - COR
+HReul,Herbert Reul,1,1,1,0,1,HReu
+SHoward,Sonja Howard,2,5,0,0,1,SHow
+JvonWeiler,Julia von Weiler,2,5,0,0,1,Jvon
+SFiedler,Sebastian Fiedler,1,7,0,0,1,SFie
+PBriken,Peer Briken,1,4,0,0,1,PBri
+830,Soziales - Missbrauchsskandal,0,0,0,4,0,830 - SOZ
+WBosbach,Wolfgang Bosbach,1,1,1,0,1,WBos
+IBaydar,Idil Baydar,2,8,0,0,1,IBay
+831,Politik - Polizei,0,0,0,1,0,831 - COR
+MSchwesig,Manuela Schwesig,2,1,2,0,1,MSch
+UTeichert,Ute Teichert,2,4,0,0,1,UTei
+JMarinic,Jagoda Marinic,2,3,0,0,1,JMar
+832,Corona - Ungleichheiten,0,0,0,3,0,832 - COR
+SWagenknecht,Sahra Wagenknecht,2,1,4,0,1,SWag
+SDavid-Wilp,Sudha David-Wilp,2,4,0,0,1,SDav
+SNavidi,Sandra Navidi,2,4,0,0,1,SNav
+MSchnitzer,Monika Schnitzer,2,4,0,0,1,MSch
+833,Corona - Trump und die Weltwirtschaft,0,0,0,3,0,833 - COR
+KLaumann,Karl-Josef Laumann,1,1,1,1,1,KLau
+HElbracht,Heidrun Elbracht,2,7,0,0,1,HElb
+834,"Corona - Virus, Wissenschaft, Politik",0,0,0,3,0,834 - COR
+NGruenewald,Nicole Gruenewald,2,2,0,0,1,MGru
+MMueller,Michael Mueller,1,1,2,0,1,MMue
+835,Corona - Regeln und Massnahmen,0,0,0,3,0,835 - COR
+GGysi,Gregor Gysi,1,1,4,0,1,GGys
+MWeisband,Marina Weisband,2,1,3,0,1,MWei
+SNemzowa,Schanna Borissowna Nemzowa,2,3,0,0,1,SNem
+ARahr,Alexander Rahr,1,4,0,0,1,ARah
+TSnyder,Timothy Snyder,1,4,0,0,1,TSny
+836,Politik - Putin und Trump,0,0,0,1,0,836 - COR
+SBeckmann,Sandra Beckmann,2,2,0,0,1,SBec
+KHaeusgen,Karl Haeusgen,1,2,0,0,1,KHae
+KZastrow,Klaus-Dieter Zastrow,1,4,0,0,1,KZas
+837,Corona - Risikopatient Wirtschaft,0,0,0,3,0,837 - COR
+VWissing,Volker Wissing,1,1,5,0,1,VWis
+SKatzenstein,Sibylle Katzenstein,2,4,0,0,1,SKat
+UProtzer,Ulrike Protzer,2,4,0,0,1,UPro
+838,Corona - Risiko Herbst,0,0,0,3,0,838 - COR
+AKausche,Angelika Kausche,2,1,7,0,1,AKau
+PRough,Peter Rough,1,4,7,0,1,PRou
+JPuglierin,Jana Puglierin,2,4,0,0,1,JPug
+CKleber,Claus Kleber,1,3,0,0,1,CKle
+839,Politik - Trump,0,0,0,1,0,839 - POL
+IEckerle,Isabella Eckerle,2,4,0,0,1,IEck
+JNida-Ruemelin,Julian Nida-Ruemelin,1,4,0,0,1,JNid
+PLarscheid,Patrick Larscheid,1,4,0,0,1,PLar
+ULemper,Ute Lemper,2,7,0,0,1,ULem
+840,Corona - Trump,0,0,0,3,0,840 - COR
+RGottschalk,Rene Gottschalk,1,4,0,0,1,RGot
+CvonKretschmann,Caroline von Kretschmann,2,2,0,0,1,Cvon
+841,Corona - Chaos,0,0,0,3,0,841 - COR
+PTschentscher,Peter Tschentscher,1,1,2,0,1,PTse
+GMascolo,Georg Mascolo,1,3,0,0,1,GMas
+SHerold,Susanne Herold,2,4,0,0,1,SHer
+SOschmann,Stefan Oschmann,1,2,0,0,1,SOsch
+842,Corona - Wende,0,0,0,3,0,842 - COR
+AGassen,Andreas Gassen,1,4,0,0,1,AGas
+843,Corona - Lockdown light,0,0,0,0,0,843 - COR
+MRichenhagen,Martin Richenhagen,1,2,0,0,1,MRic
+BWolfmeier,Benjamin Wolfmeier,1,1,6,0,1,BWol
+TGottschalk,Thomas Gottschalk,1,7,0,0,1,TGot
+844,Politik - US-Wahl,0,0,0,1,0,844 - POL
+SKluge,Stefan Kluge,1,4,0,0,1,SKlu
+PKremsner,Peter Kremsner,1,4,0,0,1,PKre
+845,Corona - Kraftakt zur Impfung,0,0,0,3,0,845 - COR
+DSchwarzer,Daniela Schwarzer,2,4,0,0,1,DSch
+SMekhennet,Souad Mekhennet,2,3,0,0,1,SMek
+846,Politik - Trump Abgang,0,0,0,1,0,846 - COR
+ULueken,Ulrike Lueken,2,4,0,0,1,ULue
+MMittermeier,Michael Mittermeier,1,8,0,0,1,MMit
+847,Corona - Weihnachten und Winter,0,0,0,3,0,847 - COR
+TChrupalla,Tino Chrupalla,1,1,6,0,1,TChr
+MJung,Matthias Jung,1,4,0,0,1,MJun
+848,Politik - Rechts und Links,0,0,0,1,0,848 - POL
+FMontgomery,Frank Ulrich Montgomery,1,4,0,0,1,FMon
+849,Corona - Winter,0,0,0,3,0,849 - COR
+LFederle,Lisa Federle,2,4,0,0,1,LFed
+850,Corona - Impfen und Shutdown,0,0,0,3,0,850 - COR
